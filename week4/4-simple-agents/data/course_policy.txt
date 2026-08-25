@@ -1,0 +1,11 @@
+SWENG 889 Course Policy
+
+Students should complete the Docker modules in order.
+
+Module 1 introduces Docker with a Python Hello World project.
+
+Module 2 introduces running a local LLM using Ollama and Docker.
+
+Module 4 introduces simple agents that use tools.
+
+For this module, students should run the examples using Docker Compose.
