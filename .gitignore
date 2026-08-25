@@ -19,6 +19,10 @@ env/
 # IDE / Editor
 # ============================================
 .idea/
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
 
 # ============================================
 # Operating system files
