@@ -9,7 +9,7 @@ The interview explored how patients manage health information, appointments, and
 
 Key Findings
 1. Alex currently uses a calendar, paper notes, and several clinic websites to manage healthcare tasks.
-2. The participant wants one secure medical app for appointments, prescriptions, test results, and doctor messages.
+2. The participant wants one secure medical app for appointments, prescriptions, test results, notifications, and doctor messages.
 3. Medication reminders are useful, but the participant wants reminders that can be postponed without losing them.
 4. Alex is concerned about privacy and expects clear explanations of how personal health data is stored and shared.
 5. Medical language can be confusing. The participant would value simple explanations and the ability to contact a healthcare professional.
