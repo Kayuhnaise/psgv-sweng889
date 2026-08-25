@@ -1,0 +1,20 @@
+Customer Interview Report: Medical App
+
+Date: August 25, 2026
+Participant: Alex, 34, patient who manages regular medical appointments
+
+Purpose
+The interview explored how patients manage health information, appointments, and medication reminders.
+
+Key Findings
+1. Alex currently uses a calendar, paper notes, and several clinic websites to manage healthcare tasks.
+2. The participant wants one secure medical app for appointments, prescriptions, test results, and doctor messages.
+3. Medication reminders are useful, but the participant wants reminders that can be postponed without losing them.
+4. Alex is concerned about privacy and expects clear explanations of how personal health data is stored and shared.
+5. Medical language can be confusing. The participant would value simple explanations and the ability to contact a healthcare professional.
+
+User Needs
+The medical app should provide a simple dashboard, appointment notifications, medication reminders, access to test results, and secure communication with healthcare providers. Important actions should be easy to find and accessible on a mobile phone.
+
+Conclusion
+The interview suggests that patients need a trustworthy and easy-to-use medical app that brings common healthcare tasks together. Privacy, accessibility, clear information, and reliable reminders should be priorities for the first version.
