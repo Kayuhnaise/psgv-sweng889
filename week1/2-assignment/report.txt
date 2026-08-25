@@ -1,6 +1,7 @@
 Customer Interview Report: Medical App
 
 Date: August 25, 2026
+Local: Pennsylvania, USA
 Participant: Alex, 34, patient who manages regular medical appointments
 
 Purpose
