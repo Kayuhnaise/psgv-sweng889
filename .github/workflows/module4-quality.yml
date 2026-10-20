@@ -1,14 +1,14 @@
-name: Module 6 Quality Checks
+name: Module 4 Quality Checks
 
 on:
   push:
     paths:
-      - "week6/module6-verification-demo/**"
-      - ".github/workflows/module6-quality.yml"
+      - "week4/module4-verification-demo/**"
+      - ".github/workflows/module4-quality.yml"
   pull_request:
     paths:
-      - "week6/module6-verification-demo/**"
-      - ".github/workflows/module6-quality.yml"
+      - "week4/module4-verification-demo/**"
+      - ".github/workflows/module4-quality.yml"
 
 jobs:
   quality:
@@ -29,9 +29,9 @@ jobs:
           python -m pip install pytest ruff
 
       - name: Run tests
-        working-directory: week6/module6-verification-demo
+        working-directory: week4/module4-verification-demo
         run: pytest -v
 
       - name: Run linting
-        working-directory: week6/module6-verification-demo
+        working-directory: week4/module4-verification-demo
         run: ruff check src tests
